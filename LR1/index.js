@@ -5,12 +5,12 @@ if(login == 'Admin')
     let password = prompt('Введіть пароль', undefined);
     if (password == 'Господар')
     {
-        alert("Ласкаво просимо!");
+        alert("Ласкаво просимо");
     }
     
     else if(login == null)
     {
-        alert("Скасовано!");
+        alert("Скасовано");
     }
 
     else
@@ -20,7 +20,7 @@ if(login == 'Admin')
 }
 else if(login == null)
 {
-    alert("Скасовано!");
+    alert("Скасовано");
 }
 
 else
