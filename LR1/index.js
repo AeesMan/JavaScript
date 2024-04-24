@@ -1,4 +1,4 @@
-alert("Привіт!");
+alert("Вітаю!");
 let login = prompt('Введіть логін', undefined);
 if(login == 'Admin')
 {
